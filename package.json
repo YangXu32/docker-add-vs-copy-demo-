@@ -1,0 +1,7 @@
+{
+  "name": "docker-add-vs-copy-demo",
+  "private": true,
+  "scripts": {
+    "dev": "python -m http.server 8000 --directory App-Files"
+  }
+}
